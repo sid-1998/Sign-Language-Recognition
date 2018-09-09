@@ -53,4 +53,4 @@ python Gesture_recognize_sign.py
 
 ## Demo
 
-[!Demo]( ./Demo.gif )
+![Demo]( ./Demo.gif )
