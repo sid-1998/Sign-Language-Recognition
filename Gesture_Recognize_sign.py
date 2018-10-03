@@ -12,7 +12,7 @@ from keras.models import load_model
 # In[3]:
 
 
-model = load_model('./new_model2.h5')
+model = load_model('./new_model6.h5')
 
 
 # In[4]:
