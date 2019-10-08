@@ -27,8 +27,7 @@ while(vc.isOpened()):
     if flag_capturing:
         
         pic_no += 1
-        save_img = cv2.resize( crop_img, (50,50) )
-        save_img = np.array(save_img)
+        save_img = cv2.resize( crop_img, (50,50) 
         cv2.imwrite(path + "/" + str(pic_no) + ".jpg", save_img)
         
     
